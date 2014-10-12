@@ -1,5 +1,5 @@
 <div id="masthead" class="container">
-STAGING
+<div style="position: absolute;top: 10px;">THIS IS THE STAGING SITE</div>
 	<div class="row">
 		<h1 class="site-title col-xs-6"><a class="brand" href="<?php echo home_url(); ?>/"><?php bloginfo('name'); ?></a></h1>
 		<div class="site-tabs col-xs-6">
