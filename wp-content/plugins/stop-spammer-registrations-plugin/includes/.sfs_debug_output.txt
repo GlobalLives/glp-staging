@@ -1,0 +1,141 @@
+
+	Error number: 2
+	Error type: Run-time warnings (non-fatal errors). Execution of the script is not halted. 
+	Error Msg: trim() expects parameter 1 to be string, array given
+	File name: /nas/wp/www/cluster-1546/globallives/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 125
+	---------------------
+	
+	Error number: 2
+	Error type: Run-time warnings (non-fatal errors). Execution of the script is not halted. 
+	Error Msg: trim() expects parameter 1 to be string, array given
+	File name: /nas/wp/www/cluster-1546/globallives/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 125
+	---------------------
+	
+	Error number: 2
+	Error type: Run-time warnings (non-fatal errors). Execution of the script is not halted. 
+	Error Msg: trim() expects parameter 1 to be string, array given
+	File name: /nas/wp/www/cluster-1546/globallives/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 125
+	---------------------
+	
+	Error number: 2
+	Error type: Run-time warnings (non-fatal errors). Execution of the script is not halted. 
+	Error Msg: trim() expects parameter 1 to be string, array given
+	File name: /nas/wp/www/cluster-1546/globallives/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 125
+	---------------------
+	
+	Error number: 2
+	Error type: Run-time warnings (non-fatal errors). Execution of the script is not halted. 
+	Error Msg: trim() expects parameter 1 to be string, array given
+	File name: /nas/wp/www/cluster-1546/globallives/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 125
+	---------------------
+	
+	Error number: 2
+	Error type: Run-time warnings (non-fatal errors). Execution of the script is not halted. 
+	Error Msg: trim() expects parameter 1 to be string, array given
+	File name: /nas/wp/www/cluster-1546/globallives/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 125
+	---------------------
+	
+	Error number: 2
+	Error type: Run-time warnings (non-fatal errors). Execution of the script is not halted. 
+	Error Msg: trim() expects parameter 1 to be string, array given
+	File name: /nas/wp/www/cluster-1546/globallives/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 125
+	---------------------
+	
+	Error number: 2
+	Error type: Run-time warnings (non-fatal errors). Execution of the script is not halted. 
+	Error Msg: trim() expects parameter 1 to be string, array given
+	File name: /nas/wp/www/cluster-1546/globallives/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 125
+	---------------------
+	
+	Error number: 2
+	Error type: Run-time warnings (non-fatal errors). Execution of the script is not halted. 
+	Error Msg: trim() expects parameter 1 to be string, array given
+	File name: /nas/wp/www/cluster-1546/globallives/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 125
+	---------------------
+	
+	Error number: 2
+	Error type: Run-time warnings (non-fatal errors). Execution of the script is not halted. 
+	Error Msg: trim() expects parameter 1 to be string, array given
+	File name: /nas/wp/www/cluster-1546/globallives/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 125
+	---------------------
+	
+	Error number: 2
+	Error type: Run-time warnings (non-fatal errors). Execution of the script is not halted. 
+	Error Msg: trim() expects parameter 1 to be string, array given
+	File name: /nas/wp/www/cluster-1546/globallives/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 125
+	---------------------
+	
+	Error number: 2
+	Error type: Run-time warnings (non-fatal errors). Execution of the script is not halted. 
+	Error Msg: trim() expects parameter 1 to be string, array given
+	File name: /nas/wp/www/cluster-1546/globallives/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 125
+	---------------------
+	
+	Error number: 2
+	Error type: Run-time warnings (non-fatal errors). Execution of the script is not halted. 
+	Error Msg: trim() expects parameter 1 to be string, array given
+	File name: /nas/wp/www/cluster-1546/globallives/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 125
+	---------------------
+	
+	Error number: 2
+	Error type: Run-time warnings (non-fatal errors). Execution of the script is not halted. 
+	Error Msg: trim() expects parameter 1 to be string, array given
+	File name: /nas/wp/www/cluster-1546/globallives/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 125
+	---------------------
+	
+	Error number: 2
+	Error type: Run-time warnings (non-fatal errors). Execution of the script is not halted. 
+	Error Msg: trim() expects parameter 1 to be string, array given
+	File name: /nas/wp/www/cluster-1546/globallives/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 125
+	---------------------
+	
+	Error number: 2
+	Error type: Run-time warnings (non-fatal errors). Execution of the script is not halted. 
+	Error Msg: trim() expects parameter 1 to be string, array given
+	File name: /nas/wp/www/cluster-1546/globallives/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 125
+	---------------------
+	
+	Error number: 2
+	Error type: Run-time warnings (non-fatal errors). Execution of the script is not halted. 
+	Error Msg: trim() expects parameter 1 to be string, array given
+	File name: /nas/wp/www/cluster-1546/globallives/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 125
+	---------------------
+	
+	Error number: 2
+	Error type: Run-time warnings (non-fatal errors). Execution of the script is not halted. 
+	Error Msg: trim() expects parameter 1 to be string, array given
+	File name: /nas/wp/www/cluster-1546/globallives/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 125
+	---------------------
+	
+	Error number: 2
+	Error type: Run-time warnings (non-fatal errors). Execution of the script is not halted. 
+	Error Msg: trim() expects parameter 1 to be string, array given
+	File name: /nas/wp/www/cluster-1546/globallives/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 125
+	---------------------
+	
+	Error number: 2
+	Error type: Run-time warnings (non-fatal errors). Execution of the script is not halted. 
+	Error Msg: trim() expects parameter 1 to be string, array given
+	File name: /nas/wp/www/cluster-1546/globallives/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 125
+	---------------------
+	
