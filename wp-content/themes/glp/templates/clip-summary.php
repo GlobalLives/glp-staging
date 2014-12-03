@@ -6,7 +6,7 @@
 	<?php get_template_part('templates/clip', 'summary-controls') ?>
 
 	<div class="participant-video-buttons row">
-		<div class="col-xs-3"><a class="btn btn-inverse addthis_button"><i class="fa fa-white fa-share"></i> Share</a></div>
+		<div class="col-xs-3"><a class="btn addthis_button"><i class="fa fa-white fa-share"></i> Share</a></div>
 		<div class="col-xs-3"><a class="btn btn-embed" href="#embed-<?php the_field('youtube_id'); ?>" data-toggle="modal">&lt;&gt; Embed</a></div>
 		<?php $item_id = get_the_ID(); $class = "btn"; include(locate_template('templates/link-queue.php')); ?>
 		<?php if ($download_url = get_field('download_url')) : ?><div class="col-xs-3"><a href="<?php echo $download_url; ?>" class="btn"><i class="fa fa-white fa-arrow-down"></i> Download</a></div><?php endif; ?>
