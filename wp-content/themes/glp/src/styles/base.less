@@ -28,6 +28,39 @@
 	.btn { font-family: @headings-font-family; }
 	.btn-inverse { .button-variant(@btn-inverse-color; @btn-inverse-bg; @btn-inverse-border); }
 	.btn-highlight { .button-variant(@btn-primary-color; @btn-primary-bg; @btn-primary-border); }
+	.btn {
+		#gradient > .vertical(@gray-dark,@black);
+		color: @gray-lighter;
+		text-shadow: 0 1px 1px @black;
+		font-family: @headings-font-family;
+		&:hover, &.active {
+			color: @white;
+			#gradient > .vertical(@gray-darker,@black);
+			.transition(none);
+		}
+	}
+	.btn-inverse {
+		#gradient > .vertical(@white,@gray-lighter);
+		color: @gray-dark;
+		text-shadow: none;
+		&:hover {
+			#gradient > .vertical(@white,@gray-light);
+			background-position: center;
+			color: @gray-dark;
+		}
+	}
+	.btn-highlight {
+		#gradient > .vertical(@orange,darken(@orange,10%));
+		color: @gray-lighter;
+		text-shadow: 0 1px 1px @black;
+		font-family: @headings-font-family;
+		border: 1px solid @orange;
+		&:hover, &.active {
+			color: @white;
+			#gradient > .vertical(lighten(@orange,10%),@orange);
+			.transition(none);
+		}
+	}
 
 /* Refactor these into appropriate files: */
 
