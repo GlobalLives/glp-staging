@@ -13,13 +13,11 @@ wp-content/plugins/regenerate-thumbnails
 wp-content/plugins/wp_firephp
 wp-content/plugins/hello.php
 sitemap.xml
-<<<<<<< HEAD
-=======
+
 sftp-config.json
 
 # WPEngine (ignores WordPress core files)
 
->>>>>>> 7504db0a0c3af20f83ef837c29398635a24d243a
 *~
 .DS_Store
 .svn
@@ -27,7 +25,7 @@ sftp-config.json
 *.bak
 *.swp
 Thumbs.db
-<<<<<<< HEAD
+
 =======
 
 
