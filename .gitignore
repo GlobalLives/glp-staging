@@ -20,6 +20,7 @@ wp-content/plugins/wp_firephp
 wp-content/plugins/hello.php
 
 sitemap.xml
+sftp-config.json
 
 # WPEngine (ignores WordPress core files)
 
@@ -30,6 +31,8 @@ sitemap.xml
 *.bak
 *.swp
 Thumbs.db
+
+
 
 # wordpress specific
 wp-config.php
