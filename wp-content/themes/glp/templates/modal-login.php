@@ -13,7 +13,8 @@
 					<form name="loginform" id="loginform" action="<?php echo site_url('wp-login.php?wpe-login=globallives', 'login_post'); ?>" method="post">
 						<p><input type="text" name="log" id="user_login" class="form-control" value="" size="20" placeholder="Username"></p>
 						<p><input type="password" name="pwd" id="user_pass" class="form-control" value="" size="20" placeholder="Password"></p>
-						<p><label for="rememberme"><input type="checkbox" name="rememberme" value="forever" checked> Remember me - <a href="<?php echo site_url('wp-login.php?action=lostpassword'); ?>"> Can't log in?</a></label></p>
+						<p><label for="rememberme"><input type="checkbox" name="rememberme" value="forever" checked> Remember me</label></p>
+						<p><a href="<?php echo site_url('wp-login.php?action=lostpassword'); ?>">Forgot Your Password?</a></p>
 						<p><input type="submit" name="wp-submit" id="wp-submit" class="btn btn-primary btn-large" value="<?php _e('Log In','glp'); ?>" /></p>
 						<input type="hidden" name="redirect_to" value="<?php the_permalink(); ?>" />
 					</form>
