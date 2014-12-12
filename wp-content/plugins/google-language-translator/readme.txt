@@ -1,11 +1,11 @@
 === Google Language Translator ===
 Contributors: Rob Myrick
 Donate link: http://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=47LFA33AC89S6
-Plugin link: http://www.studio88design.com/plugins/google-language-translator
+Plugin link: http://www.wp-studio.net/how-it-works
 Tags: language translator, google translator, language translate, google, google language translator, translation, translate, multi language
 Requires at least: 2.9
-Tested up to: 3.8.1
-stable tag: 3.0.9
+Tested up to: 4.0
+stable tag: 4.0.9
 
 Welcome to Google Language Translator! This plugin allows you to insert the Google Language Translator tool anywhere on your website using shortcode.
 
@@ -22,10 +22,85 @@ Settings include: inline or vertical layout, show/hide specific languages, hide/
 5. Copy the shortcode and paste it into a page, post or widget.
 6. Do not use the shortcode twice on a single page - it will not work.
 
-
 == Frequently Asked Questions ==
 
+Q: What should I do if the translate widget does not show on my website?
+
+1. Make sure that the plugin is installed and activated.
+2. Verify that a check mark is placed in the activation setting located at "Settings > Google Language Translator".
+3. Verify that the native Wordpress function, wp_footer(), is included in your theme's footer file.
+4. Verify that "Show Language Box?" setting is enabled at "Settings > Google Language Translator".
+5. Use your browser's web tools to ensure that CSS styles are not hiding the translation widget.
+6. Contact support at http://www.wp-studio.net/submit-ticket. 
+
+Q: What should I do if there are no languages being displayed in the language box?
+
+1. Make sure that the plugin is installed and activated.
+2. Verify that a check mark is placed in the activation setting located at "Settings > Google Language Translator".
+3. Verify that Adobe Flash is installed in your web browser. Google uses Flash in order to display their language box.
+4. Contact support at http://www.wp-studio.net/submit-ticket.
+
+Q: Can I exclude certain areas of my website from being translated?
+
+A: Yes! Add the "notranslate" class to the HTML element containing your text. For example, the following text will be excluded from translation: <span class="notranslate">Hello World!</span>  
+
 == Changelog ==
+
+4.0.9
+- Replaced: incorrect Catalonian flag image, with the correct image. I apologize for any inconvenience.
+- Fixed: Floating Widget issue - previously it loaded 2 times when shortcode was added, which caused it not to work.
+
+4.0.8
+- Fixed the small syntax issue related to the Google Analytics tracking number - it was another cause of the language box not displaying.
+
+4.0.7
+- Fixed a CSS error in the settings panel display.
+- Fixed the coding issue when "Specific Languages" option is chosen - the shortcode was not displaying the language dropdown.
+
+4.0.6
+
+- Removed: "onclick" events from diplaying directly inside HTML. Converted those events to jQuery.
+- Fixed the shortcode that allows adding single languages to Wordpress menus. (New example is shown on settings page.)
+- Consolidated all flag images into image sprites!
+- Re-designed 10 flag images to match the quality of the other flags.
+- Fixed the incorrect "alt" tags associated with flag images. The "alt" tag now displays the language name.
+- Modified text on the settings page - also added some lightbox pop-ups to help explain settings.
+- New updates have also been provided for our Premium version (currently version 4.0.1) located at http://www.wp-studio.net/
+
+4.0.5
+
+- Fixed: Display bug when using single language shortcode.
+- Added: New link on the Plugins menu page, which links directly to Google Language Translator settings.
+
+
+4.0.4
+
+- Added NEW shortcode!  Allows placement of single languages into the navigation menu, pages, and posts. See settings panel for usage details.
+- Re-factored code in googlelanguagetranslator.php which reduced code to around 950 lines.
+- Removed the "de-activation" hook, which previously deleted options when plugin de-activated.  Added "uninstall" hook instead, so that settings will be preserved only when user deletes the plugin completely. 
+- Updated CSS styles for the flags area to prevent themes from overriding layouts. 
+
+4.0.3
+
+- Adjusted CSS styles for the flag display.
+
+4.0.2
+
+- Eliminated all (or most) HTML validation errors. Big improvement!
+- Re-factored more code to increase efficiency.
+- Added de-activation hook to reset all plugin settings when plugin is de-activated. (CSS Overrides and Google Analytics ID setting will remain in place and won't be deleted.)
+- Fixed the issue with flag language checkboxes. Users can remove English flag if so desired. Previously, English flag was alway required to stay checked, which was not most user-friendly.
+
+4.0.1
+
+- Fixed PHP errors that were neglected in upgrade to 4.0.
+- Added conditionals to prevent scripts from loading when the floating widget is turned off. 
+
+4.0
+
+- Added 2 new features: 1) Drag/drop flags to re-arrange their order, and 2) Custom flag sizes (16px to 24px).
+- Re-factored code in google-language-translator.php. Languages are now loaded dynamically and are not hard-coded.
+- GLT Premium is now released: Updates include multiple flags for English, Spanish, and Portuguese languages; customized URLs with 'lang' attribute; drag/drop flags to re-arrnage their order
 
 3.0.9
 

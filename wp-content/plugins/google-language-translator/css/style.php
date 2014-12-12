@@ -6,7 +6,7 @@ $glt_css = get_option("googlelanguagetranslator_css");
   echo $glt_css;
 
 if (get_option('googlelanguagetranslator_flags') == 'show_flags') {
-	
+
 	if(get_option('googlelanguagetranslator_display')=='Vertical') { 
 	  if (get_option('googlelanguagetranslator_language_option')=='specific') {
 		echo '#flags {display:none !important; }';
@@ -35,6 +35,7 @@ if (get_option('googlelanguagetranslator_flags') == 'show_flags') {
 	  echo '#google_language_translator, #language { clear:both; width:auto !important; text-align:right; }';
 	  echo '#language { float:right; }';
 	  echo '#flags { text-align:right; width:165px; float:right; clear:right; }';
+	  echo '#flags ul { float:right !important; }';
 	  echo 'p.hello { text-align:right; float:right; clear:both; }';
       echo '.glt-clear { height:0px; clear:both; margin:0px; padding:0px; }';
 	}
