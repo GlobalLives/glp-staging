@@ -26,12 +26,9 @@ sftp-config.json
 *.swp
 Thumbs.db
 
-=======
-
 
 
 # wordpress specific
->>>>>>> 7504db0a0c3af20f83ef837c29398635a24d243a
 wp-config.php
 wp-content/uploads/
 wp-content/blogs.dir/
