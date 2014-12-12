@@ -9,7 +9,7 @@ jQuery(document).ready(function(){
 	   jQuery ('.choose_flags').css('display','none');
 		
 	} else if (language_display == 'specific') {
-	   jQuery ('.languages').css('display','inline');
+	   //jQuery ('.languages').css('display','inline');
 	   jQuery ('.choose_flags_intro').css('display','none');
 	   jQuery ('.choose_flags').css('display','none');
 	}
@@ -85,6 +85,7 @@ jQuery(document).ready(function(){
   jQuery('#setting-error-settings_updated').addClass('notranslate');
   jQuery('.update-nag').addClass('notranslate');
   jQuery('title').addClass('notranslate');
+  jQuery('#footer-thankyou').addClass('notranslate');
 });
 
 

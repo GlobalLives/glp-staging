@@ -1,5 +1,5 @@
 jQuery(document).ready(function($) {
-  $('#glt-translate-trigger').toolbar({content: '#glt-toolbar', position: 'top', hideOnClick: 'true'});
+  $('#glt-translate-trigger').toolbar({content: '#flags', position: 'top', hideOnClick: 'true'});
   
   
     $('#glt-translate-trigger').on('toolbarShown',function(event) { 
