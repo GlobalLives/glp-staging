@@ -2599,7 +2599,7 @@
 	"slimAutoOutputPathReplace1": "",
 	"slimAutoOutputPathReplace2": "",
 	"slimAutoOutputPathStyle": 0,
-	"slimCompileOnly": 1,
+	"slimCompileOnly": 0,
 	"slimLogicless": 0,
 	"slimOutputStyle": 1,
 	"slimRailsCompatible": 0,
