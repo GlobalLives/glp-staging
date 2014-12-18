@@ -72,11 +72,13 @@ $(function() {
 		$('#popover .popover-series').html(d.series_labels || '');
 		$('#popover .popover-themes').html(d.themes.map(function (theme) {
 			return '<a>' + theme + '</a>';
+			console.log(theme);
 		}) || '');
 
 		$('#popover').show();
 		$('.mapthumb').attr('class', 'mapthumb');
 		$(el).find('.mapthumb').attr('class', 'mapthumb popped');
+		
 
 		$('.popover-series a').on('click', {taxonomy: 'series', participant: d.id }, showTerm);
 		$('.popover-themes a').on('click', {taxonomy: 'themes', participant: d.id }, showTerm);
