@@ -11,7 +11,7 @@
 				<h5><?php _e('Discover'); ?> <?php echo $post->post_title; ?>'s <?php _e('shared themes'); ?></h5>
 				<a class="btn btn-inverse"><i class="icon icon-globe"></i>
 					<span><?php _e('Show map'); ?> &#9652;</span>
-					<span class="hide"><?php _e('Collapse map'); ?> &#9662;</span>
+					<span class="collapse"><?php _e('Collapse map'); ?> &#9662;</span>
 				</a>
 			</div>
 		</div>
