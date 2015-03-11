@@ -9930,6 +9930,9 @@ body#search .result-clip .clip-thumbnail:after {
   position: relative;
   width: 100%;
 }
+.single-participant .modal {
+  z-index: 9999999;
+}
 .single-participant #stage .btn-embed {
   display: block;
 }
