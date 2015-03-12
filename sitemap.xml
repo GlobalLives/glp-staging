@@ -1,572 +1,680 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="http://globallives.dev/wp-content/plugins/google-sitemap-plugin/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:8888/globallives/wp-content/plugins/google-sitemap-plugin/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://globallives.dev/</loc>
-    <lastmod>2014-04-04T22:31:25+00:00</lastmod>
+    <loc>http://localhost:8888/globallives/</loc>
+    <lastmod>2014-09-23T07:37:32+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/about/</loc>
+    <loc>http://localhost:8888/globallives/about/</loc>
     <lastmod>2013-01-07T20:02:48+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/about/sponsors/</loc>
+    <loc>http://localhost:8888/globallives/about/sponsors/</loc>
     <lastmod>2013-12-04T22:42:52+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/about/careers/</loc>
-    <lastmod>2014-05-28T03:04:45+00:00</lastmod>
+    <loc>http://localhost:8888/globallives/about/careers/</loc>
+    <lastmod>2014-08-25T22:21:55+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/about/council/</loc>
+    <loc>http://localhost:8888/globallives/about/council/</loc>
     <lastmod>2013-12-07T01:35:34+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/about/crew/</loc>
+    <loc>http://localhost:8888/globallives/about/crew/</loc>
     <lastmod>2013-02-16T17:43:19+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/about/board/</loc>
-    <lastmod>2014-04-25T19:49:16+00:00</lastmod>
+    <loc>http://localhost:8888/globallives/about/board/</loc>
+    <lastmod>2014-10-06T19:07:15+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/about/staff/</loc>
-    <lastmod>2014-04-28T22:06:15+00:00</lastmod>
+    <loc>http://localhost:8888/globallives/about/staff/</loc>
+    <lastmod>2014-07-24T17:03:59+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/explore/</loc>
+    <loc>http://localhost:8888/globallives/explore/</loc>
     <lastmod>2013-01-07T20:05:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/participate/</loc>
+    <loc>http://localhost:8888/globallives/participate/</loc>
     <lastmod>2013-01-07T20:06:10+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/participate/volunteer/</loc>
+    <loc>http://localhost:8888/globallives/participate/volunteer/</loc>
     <lastmod>2013-01-07T20:06:22+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/participate/propose/considerations/</loc>
+    <loc>http://localhost:8888/globallives/participate/propose/considerations/</loc>
     <lastmod>2014-01-22T19:53:08+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/participate/host/</loc>
-    <lastmod>2014-02-18T22:57:40+00:00</lastmod>
+    <loc>http://localhost:8888/globallives/participate/host/</loc>
+    <lastmod>2014-07-23T17:57:55+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/resources/</loc>
+    <loc>http://localhost:8888/globallives/resources/</loc>
     <lastmod>2013-01-07T20:07:22+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/resources/educators/</loc>
-    <lastmod>2014-04-07T17:15:29+00:00</lastmod>
+    <loc>http://localhost:8888/globallives/resources/educators/</loc>
+    <lastmod>2014-09-26T14:45:46+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/resources/producers/</loc>
+    <loc>http://localhost:8888/globallives/zh-hans/%e6%9d%90%e6%96%99/educators/</loc>
+    <lastmod>2014-08-13T17:45:40+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://localhost:8888/globallives/resources/producers/</loc>
     <lastmod>2014-01-22T19:52:20+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/events/</loc>
+    <loc>http://localhost:8888/globallives/events/</loc>
     <lastmod>2013-01-07T20:08:41+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/blog/</loc>
+    <loc>http://localhost:8888/globallives/blog/</loc>
     <lastmod>2014-05-19T20:00:03+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/about/press/</loc>
+    <loc>http://localhost:8888/globallives/about/press/</loc>
     <lastmod>2014-04-01T23:51:12+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/profile/</loc>
+    <loc>http://localhost:8888/globallives/profile/</loc>
     <lastmod>2013-01-19T00:39:16+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/participate/propose/</loc>
+    <loc>http://localhost:8888/globallives/participate/propose/</loc>
     <lastmod>2014-02-26T22:07:10+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/donate/donate/</loc>
+    <loc>http://localhost:8888/globallives/donate/donate/</loc>
     <lastmod>2013-11-23T20:25:22+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/participate/propose/inquiry/</loc>
+    <loc>http://localhost:8888/globallives/participate/propose/inquiry/</loc>
     <lastmod>2014-01-27T22:25:58+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/participate/propose/proposal/</loc>
+    <loc>http://localhost:8888/globallives/participate/propose/proposal/</loc>
     <lastmod>2013-04-01T21:07:37+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/resources/translators/</loc>
+    <loc>http://localhost:8888/globallives/resources/translators/</loc>
     <lastmod>2013-02-16T17:51:24+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/resources/curators/</loc>
+    <loc>http://localhost:8888/globallives/resources/curators/</loc>
     <lastmod>2013-12-06T02:57:36+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/resources/producers/overview/</loc>
+    <loc>http://localhost:8888/globallives/resources/producers/overview/</loc>
     <lastmod>2014-04-28T22:37:40+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/participate/translate/</loc>
+    <loc>http://localhost:8888/globallives/participate/translate/</loc>
     <lastmod>2013-06-08T00:50:27+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/participate/educate/</loc>
+    <loc>http://localhost:8888/globallives/participate/educate/</loc>
     <lastmod>2013-04-18T22:49:34+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/participate/livesintransit/</loc>
+    <loc>http://localhost:8888/globallives/participate/livesintransit/</loc>
     <lastmod>2014-03-28T23:28:39+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/resources/translators/faq/</loc>
+    <loc>http://localhost:8888/globallives/resources/translators/faq/</loc>
     <lastmod>2013-02-16T17:55:14+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/resources/translators/dotsub/</loc>
+    <loc>http://localhost:8888/globallives/resources/translators/dotsub/</loc>
     <lastmod>2013-11-20T08:03:46+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/donate/</loc>
-    <lastmod>2014-05-15T23:10:30+00:00</lastmod>
+    <loc>http://localhost:8888/globallives/donate/</loc>
+    <lastmod>2014-08-28T21:24:11+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/about/partners/</loc>
+    <loc>http://localhost:8888/globallives/zh-hans/donate/</loc>
+    <lastmod>2014-08-28T21:24:11+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://localhost:8888/globallives/about/partners/</loc>
     <lastmod>2014-02-27T21:13:12+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/about/overview/</loc>
-    <lastmod>2014-03-28T16:28:38+00:00</lastmod>
+    <loc>http://localhost:8888/globallives/about/overview/</loc>
+    <lastmod>2014-08-12T23:41:42+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/participate/volunteer/volunteer-form/</loc>
+    <loc>http://localhost:8888/globallives/participate/volunteer/volunteer-form/</loc>
     <lastmod>2013-02-13T16:47:07+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/license/</loc>
+    <loc>http://localhost:8888/globallives/license/</loc>
     <lastmod>2013-02-22T04:33:58+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/participate/livesintransit/callforfilmmakers/</loc>
-    <lastmod>2014-03-28T23:55:37+00:00</lastmod>
+    <loc>http://localhost:8888/globallives/participate/livesintransit/callforfilmmakers/</loc>
+    <lastmod>2014-07-02T19:12:48+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/participate/livesintransit/callforfilmmakers/crew-member-inquiry-form/</loc>
+    <loc>http://localhost:8888/globallives/participate/livesintransit/callforfilmmakers/crew-member-inquiry-form/</loc>
     <lastmod>2013-02-25T22:21:07+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/fr/le-global-lives-project-glp-cherche-des-cineastes-dans-le-monde-entier-pour-contribuer-a-sa-nouvelle-serie-de-dix-films-de-24-heures-lives-in-transit-vies-en-transit/</loc>
+    <loc>http://localhost:8888/globallives/fr/le-global-lives-project-glp-cherche-des-cineastes-dans-le-monde-entier-pour-contribuer-a-sa-nouvelle-serie-de-dix-films-de-24-heures-lives-in-transit-vies-en-transit/</loc>
     <lastmod>2013-03-14T01:24:03+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/es/test-2/</loc>
+    <loc>http://localhost:8888/globallives/es/test-2/</loc>
     <lastmod>2013-06-20T21:32:02+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/home/thankyou/</loc>
+    <loc>http://localhost:8888/globallives/home/thankyou/</loc>
     <lastmod>2014-01-03T06:20:19+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/conversion/</loc>
+    <loc>http://localhost:8888/globallives/conversion/</loc>
     <lastmod>2013-06-20T23:18:26+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/pdf-download/</loc>
+    <loc>http://localhost:8888/globallives/pdf-download/</loc>
     <lastmod>2013-06-20T23:30:45+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/livesintransit/</loc>
+    <loc>http://localhost:8888/globallives/livesintransit/</loc>
     <lastmod>2013-11-15T21:19:20+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/firstten/</loc>
+    <loc>http://localhost:8888/globallives/firstten/</loc>
     <lastmod>2013-11-15T21:52:21+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/independentshoots/</loc>
+    <loc>http://localhost:8888/globallives/independentshoots/</loc>
     <lastmod>2013-11-15T22:07:27+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/educate/</loc>
+    <loc>http://localhost:8888/globallives/educate/</loc>
     <lastmod>2013-11-26T19:13:39+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/empathykit/</loc>
+    <loc>http://localhost:8888/globallives/empathykit/</loc>
     <lastmod>2013-11-20T01:33:40+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/productionguide/</loc>
+    <loc>http://localhost:8888/globallives/productionguide/</loc>
     <lastmod>2013-11-20T08:06:47+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/thank-you-for-donating/</loc>
+    <loc>http://localhost:8888/globallives/thank-you-for-donating/</loc>
     <lastmod>2014-05-15T23:09:09+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/events/jan9/</loc>
+    <loc>http://localhost:8888/globallives/events/jan9/</loc>
     <lastmod>2013-12-23T23:11:33+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/jan9sf/</loc>
+    <loc>http://localhost:8888/globallives/jan9sf/</loc>
     <lastmod>2013-12-23T23:11:31+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/jan9/</loc>
+    <loc>http://localhost:8888/globallives/jan9/</loc>
     <lastmod>2013-12-23T23:12:05+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/jan9event/</loc>
+    <loc>http://localhost:8888/globallives/jan9event/</loc>
     <lastmod>2013-12-23T23:12:11+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/jan9volunteer/</loc>
+    <loc>http://localhost:8888/globallives/jan9volunteer/</loc>
     <lastmod>2013-12-25T18:43:08+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/jan9testtickets/</loc>
+    <loc>http://localhost:8888/globallives/jan9testtickets/</loc>
     <lastmod>2013-12-26T22:48:38+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/globalwednesdays/</loc>
+    <loc>http://localhost:8888/globallives/globalwednesdays/</loc>
     <lastmod>2014-01-19T19:01:18+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/livesintransitpreviews/</loc>
+    <loc>http://localhost:8888/globallives/livesintransitpreviews/</loc>
     <lastmod>2014-01-30T18:51:50+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/sponsorateacher/</loc>
+    <loc>http://localhost:8888/globallives/sponsorateacher/</loc>
     <lastmod>2014-01-17T23:15:49+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/resources/educators/unheardstories/</loc>
-    <lastmod>2014-05-14T00:57:12+00:00</lastmod>
+    <loc>http://localhost:8888/globallives/resources/educators/unheardstories/</loc>
+    <lastmod>2014-09-02T22:31:46+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/blog/threeperipheries/</loc>
+    <loc>http://localhost:8888/globallives/resources/educators/unheardstories/unheardstoriessurvey/</loc>
+    <lastmod>2014-06-03T23:47:44+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://localhost:8888/globallives/macarthur/</loc>
+    <lastmod>2014-09-11T20:44:23+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://localhost:8888/globallives/zh-hans/%e6%9d%90%e6%96%99/%e5%88%b6%e7%89%87%e4%ba%ba%e7%9a%84%e8%b5%84%e6%96%99/</loc>
+    <lastmod>2014-07-25T19:15:04+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://localhost:8888/globallives/zh-hans/%e7%bb%84%e7%bb%87%e7%9a%84%e7%bb%86%e8%8a%82/%e6%a6%82%e8%a7%82/</loc>
+    <lastmod>2014-07-25T18:53:26+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://localhost:8888/globallives/zh-hans/%e7%bb%84%e7%bb%87%e7%9a%84%e7%bb%86%e8%8a%82/%e8%91%a3%e4%ba%8b%e4%bc%9a/</loc>
+    <lastmod>2014-07-28T20:34:54+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://localhost:8888/globallives/zh-hans/%e7%bb%84%e7%bb%87%e7%9a%84%e7%bb%86%e8%8a%82/</loc>
+    <lastmod>2014-07-25T19:02:16+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://localhost:8888/globallives/zh-hans/%e6%9d%90%e6%96%99/</loc>
+    <lastmod>2014-07-25T19:13:32+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://localhost:8888/globallives/zh-hans/%e6%9d%90%e6%96%99/%e5%88%b6%e7%89%87%e4%ba%ba%e7%9a%84%e8%b5%84%e6%96%99/%e5%88%b6%e7%89%87%e6%a6%82%e8%a7%82/</loc>
+    <lastmod>2014-07-25T19:21:33+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://localhost:8888/globallives/zh-hans/%e4%b8%be%e5%8a%9e%e5%b1%95%e8%a7%88%e4%bc%9a/</loc>
+    <lastmod>2014-07-25T20:11:03+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://localhost:8888/globallives/work-sample/</loc>
+    <lastmod>2014-08-14T02:14:37+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://localhost:8888/globallives/2014nea-worksample/</loc>
+    <lastmod>2014-08-16T03:36:18+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://localhost:8888/globallives/zh-hans/%e8%b0%a2%e8%b0%a2%e4%bd%a0%ef%bc%81/</loc>
+    <lastmod>2014-08-27T19:31:48+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://localhost:8888/globallives/zh-hans/%e7%bb%84%e7%bb%87%e7%9a%84%e7%bb%86%e8%8a%82/%e5%b7%a5%e4%bd%9c%e5%92%8c%e5%ae%9e%e4%b9%a0%e6%9c%ba%e4%bc%9a/</loc>
+    <lastmod>2014-08-30T14:45:55+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://localhost:8888/globallives/unicefmycroftarchive/</loc>
+    <lastmod>2014-09-03T00:02:59+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://localhost:8888/globallives/paly/</loc>
+    <lastmod>2014-09-15T23:33:28+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://localhost:8888/globallives/palyteachers/</loc>
+    <lastmod>2014-09-23T21:29:30+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://localhost:8888/globallives/blog/threeperipheries/</loc>
     <lastmod>2013-02-14T23:47:26+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/blog/excerpt/</loc>
+    <loc>http://localhost:8888/globallives/blog/excerpt/</loc>
     <lastmod>2013-02-14T23:46:02+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/blog/kickstarter-twitter/</loc>
+    <loc>http://localhost:8888/globallives/blog/kickstarter-twitter/</loc>
     <lastmod>2013-02-14T23:33:39+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/blog/livesintransit/</loc>
+    <loc>http://localhost:8888/globallives/blog/livesintransit/</loc>
     <lastmod>2013-02-14T23:27:25+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/blog/newwebsite/</loc>
+    <loc>http://localhost:8888/globallives/blog/newwebsite/</loc>
     <lastmod>2013-02-16T18:09:08+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/blog/call-for-entries-is-now-open-for-baymn-fest-deadline-april-1-2013/</loc>
+    <loc>http://localhost:8888/globallives/blog/call-for-entries-is-now-open-for-baymn-fest-deadline-april-1-2013/</loc>
     <lastmod>2013-02-27T00:21:45+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/blog/how-to-make-a-global-lives-shoot-kazakhstan/</loc>
+    <loc>http://localhost:8888/globallives/blog/how-to-make-a-global-lives-shoot-kazakhstan/</loc>
     <lastmod>2013-11-27T22:40:30+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/blog/how-to-make-a-global-lives-shoot-india/</loc>
+    <loc>http://localhost:8888/globallives/blog/how-to-make-a-global-lives-shoot-india/</loc>
     <lastmod>2013-11-27T22:40:22+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/blog/how-ten-shoots-can-describe-the-world/</loc>
+    <loc>http://localhost:8888/globallives/blog/how-ten-shoots-can-describe-the-world/</loc>
     <lastmod>2013-11-27T22:40:12+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/blog/global-lives-is-moving/</loc>
+    <loc>http://localhost:8888/globallives/blog/global-lives-is-moving/</loc>
     <lastmod>2013-11-27T22:40:03+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/blog/global-lives-partners-with-sf-film-societys-filmmaker-in-the-classroom-program/</loc>
+    <loc>http://localhost:8888/globallives/blog/global-lives-partners-with-sf-film-societys-filmmaker-in-the-classroom-program/</loc>
     <lastmod>2013-06-20T21:45:22+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/blog/baymnfest2013/</loc>
+    <loc>http://localhost:8888/globallives/blog/baymnfest2013/</loc>
     <lastmod>2013-06-19T06:08:44+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/blog/china-shoot-in-production/</loc>
+    <loc>http://localhost:8888/globallives/blog/china-shoot-in-production/</loc>
     <lastmod>2013-06-21T22:13:22+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/blog/global-lives-goes-to-catapult-labs/</loc>
+    <loc>http://localhost:8888/globallives/blog/global-lives-goes-to-catapult-labs/</loc>
     <lastmod>2013-11-27T22:39:20+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/blog/global-lives-joins-the-circus/</loc>
+    <loc>http://localhost:8888/globallives/blog/global-lives-joins-the-circus/</loc>
     <lastmod>2013-11-27T22:39:11+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/blog/south-by-southwest-education-conference-and-festival-globally-empathetic-standards-based-web-lessons/</loc>
+    <loc>http://localhost:8888/globallives/blog/south-by-southwest-education-conference-and-festival-globally-empathetic-standards-based-web-lessons/</loc>
     <lastmod>2013-11-27T22:38:51+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/blog/global-lives-project-announced-as-aiga-redesign-awards-2013-finalist/</loc>
+    <loc>http://localhost:8888/globallives/blog/global-lives-project-announced-as-aiga-redesign-awards-2013-finalist/</loc>
     <lastmod>2013-11-27T22:38:43+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/blog/globalgangnam/</loc>
+    <loc>http://localhost:8888/globallives/blog/globalgangnam/</loc>
     <lastmod>2013-11-27T22:38:33+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/blog/global-lives-will-be-at-georgetown-university-on-tuesday-october-15th/</loc>
+    <loc>http://localhost:8888/globallives/blog/global-lives-will-be-at-georgetown-university-on-tuesday-october-15th/</loc>
     <lastmod>2013-11-27T22:38:22+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/blog/calling-all-portuguese-english-translators/</loc>
+    <loc>http://localhost:8888/globallives/blog/calling-all-portuguese-english-translators/</loc>
     <lastmod>2013-11-27T22:38:11+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/blog/crew-call/</loc>
+    <loc>http://localhost:8888/globallives/blog/crew-call/</loc>
     <lastmod>2013-11-27T22:36:52+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/blog/global_education/</loc>
+    <loc>http://localhost:8888/globallives/blog/global_education/</loc>
     <lastmod>2013-11-27T22:36:16+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/blog/aiga-redesign-award-2013/</loc>
+    <loc>http://localhost:8888/globallives/blog/aiga-redesign-award-2013/</loc>
     <lastmod>2013-11-27T22:35:11+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/blog/update2013/</loc>
+    <loc>http://localhost:8888/globallives/blog/update2013/</loc>
     <lastmod>2013-12-03T07:33:16+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/blog/teachersbangingdowndoor/</loc>
+    <loc>http://localhost:8888/globallives/blog/teachersbangingdowndoor/</loc>
     <lastmod>2013-12-06T01:47:27+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/blog/globalfuture/</loc>
+    <loc>http://localhost:8888/globallives/blog/globalfuture/</loc>
     <lastmod>2013-12-20T04:04:30+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/blog/equaldreams/</loc>
+    <loc>http://localhost:8888/globallives/blog/equaldreams/</loc>
     <lastmod>2014-01-01T02:55:17+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/blog/jan9tonight/</loc>
+    <loc>http://localhost:8888/globallives/blog/jan9tonight/</loc>
     <lastmod>2014-01-27T17:42:29+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/blog/exhibitmonth/</loc>
+    <loc>http://localhost:8888/globallives/blog/exhibitmonth/</loc>
     <lastmod>2014-05-27T19:57:37+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/blog/feb18fieldtrips/</loc>
+    <loc>http://localhost:8888/globallives/blog/feb18fieldtrips/</loc>
     <lastmod>2014-04-10T22:53:40+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/blog/mindsopen/</loc>
+    <loc>http://localhost:8888/globallives/blog/mindsopen/</loc>
     <lastmod>2014-05-27T20:34:11+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/blog/globalgratitude/</loc>
+    <loc>http://localhost:8888/globallives/blog/globalgratitude/</loc>
     <lastmod>2014-01-27T17:40:28+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/blog/global-empathy/</loc>
+    <loc>http://localhost:8888/globallives/blog/global-empathy/</loc>
     <lastmod>2014-05-19T19:50:38+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://globallives.dev/blog/globallivesschools/</loc>
+    <loc>http://localhost:8888/globallives/blog/globallivesschools/</loc>
     <lastmod>2014-05-27T23:08:52+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>

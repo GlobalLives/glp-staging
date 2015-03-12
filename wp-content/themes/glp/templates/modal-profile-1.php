@@ -13,7 +13,7 @@
 		<div class="col-md-6">
 			<p><input type="text" class="form-control" name="first_name" value="<?php echo $user_firstname; ?>" placeholder="<?php _e('First Name','glp'); ?>" required></p>
 			<p><input type="text" class="form-control" name="last_name" value="<?php echo $user_lastname; ?>"placeholder="<?php _e('Last Name','glp'); ?>" required></p>
-			<p><input type="text" class="form-control" name="user_occupation" value="<?php echo $user_occupation; ?>" placeholder="<?php _e('Occupation','glp'); ?>" required></p>
+			<p><input type="text" class="form-control" name="user_occupation" value="<?php echo $user_occupation; ?>" placeholder="<?php _e('Occupation','glp'); ?>"></p>
 			<p><input type="text" class="form-control" name="user_location" id="user_location" value="<?php echo $user_location; ?>" placeholder="<?php _e('Location','glp'); ?>" required></p>
 			<p><?php _e('A short bio (optional)','glp'); ?></p>
 			<textarea class="form-control" name="description" id="user_description" maxlength="500"><?php echo $user_description; ?></textarea>
