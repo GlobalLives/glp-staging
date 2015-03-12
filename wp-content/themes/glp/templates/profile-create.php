@@ -16,9 +16,9 @@
 						</div>
 						<div class="col-md-3 pull-right">
 							<ul class="profile-nav">
-								<li><a href="#" data-step="3" class="disabled"><i class="fa fa-circle"></i></a></li>
-								<li><a href="#" data-step="2" class="disabled"><i class="fa fa-circle"></i></a></li>
-								<li class="active"><a href="#" data-step="1"><i class="fa fa-circle"></i></a></li>
+								<li><a href="#" class="disabled"><i class="fa fa-circle"></i></a></li>
+								<li><a href="#" class="next disabled"><i class="fa fa-circle"></i></a></li>
+								<li class="active"><a href="#"><i class="fa fa-circle"></i></a></li>
 							</ul>
 						</div>
 					</div>
@@ -36,8 +36,19 @@
 		<div class="modal-dialog">
 			<div class="modal-content">
 				<div class="modal-header">
-					<h3><?php _e('Become a Volunteer!','glp'); ?></h3>
-					<p><? _e('Be a part of the Global Lives Project.','glp'); ?></p>
+					<div class="row">
+						<div class="col-md-9">
+							<h3><?php _e('Become a Volunteer!','glp'); ?></h3>
+							<p><? _e('Be a part of the Global Lives Project.','glp'); ?></p>
+						</div>
+						<div class="col-md-3 pull-right">
+							<ul class="profile-nav">
+								<li><a href="#" class="next disabled"><i class="fa fa-circle"></i></a></li>
+								<li class="active"><a href="#"><i class="fa fa-circle"></i></a></li>
+								<li><a href="#"><i class="fa fa-circle"></i></a></li>
+							</ul>
+						</div>
+					</div>
 				</div>
 				<div class="modal-body">
 				<?php get_template_part('templates/modal', 'profile-2'); ?>
@@ -52,8 +63,19 @@
 		<div class="modal-dialog">
 			<div class="modal-content">
 				<div class="modal-header">
-					<h3><?php _e('How did you hear about us?','glp'); ?></h3>
-					<p><?php _e('We’re always looking to help spread the word and curious to know how you found us. This will only take a moment, we promise.','glp'); ?></p>
+					<div class="row">
+						<div class="col-md-9">
+							<h3><?php _e('How did you hear about us?','glp'); ?></h3>
+							<p><?php _e('We’re always looking to help spread the word and curious to know how you found us. This will only take a moment, we promise.','glp'); ?></p>
+						</div>
+						<div class="col-md-3 pull-right">
+							<ul class="profile-nav">
+								<li class="active"><a href="#"><i class="fa fa-circle"></i></a></li>
+								<li><a href="#"><i class="fa fa-circle"></i></a></li>
+								<li><a href="#"><i class="fa fa-circle"></i></a></li>
+							</ul>
+						</div>
+					</div>
 				</div>
 				<div class="modal-body">
 					<?php get_template_part('templates/modal', 'profile-3'); ?>

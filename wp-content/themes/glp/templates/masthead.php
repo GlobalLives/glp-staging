@@ -1,4 +1,3 @@
-<!-- fix -->
 <div id="masthead" class="container">
 
 <div style="position: absolute;top: 10px; background: #eee; color: red; font-weight: bold;">THIS IS THE STAGING SITE</div><!-- MANGROVE REMOVE -->

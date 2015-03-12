@@ -1,6 +1,6 @@
 <?php global $current_user, $field_keys; $user_id = $current_user->ID; ?>
-			<p><?php _e('(check all that apply)','glp'); ?></p>
-			<div class="row">
+	<p><?php _e('(check all that apply)','glp'); ?></p>
+	<div class="row">
 <?php
 	$user_sources_obj = get_field_object($field_keys['user_sources'], 'user_' . $user_id);
 	$source_cols = 3; $i = 0;
@@ -14,10 +14,12 @@
 	$i++;
 	}
 ?>
-			</div>
-			<hr>
-			<div class="row">
-				<h5><?php _e('Subscribe to our mailing list! Spread the word!', 'glp'); ?></h5>
-				<p><?php _e('Get updates on new films, upcoming events and more. (We send about 6 emails a year.)', 'glp'); ?></p>
-				<label class="checkbox"><input name="user_subscribe" type="checkbox"> <?php _e('Yes, Sign me up!', 'glp'); ?></label>
-			</div>
+</div>
+<hr />
+<div class="row">
+	<div class="col-md-12">
+		<h5><?php _e('Subscribe to our mailing list! Spread the word!', 'glp'); ?></h5>
+		<p><?php _e('Get updates on new films, upcoming events and more. (We send about 6 emails a year.)', 'glp'); ?></p>
+		<label><input name="user_subscribe" type="checkbox"> <?php _e('Yes, Sign me up!', 'glp'); ?></label>
+	</div>
+</div>
