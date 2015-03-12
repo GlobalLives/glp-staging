@@ -9223,6 +9223,34 @@ input.copyable:focus {
 .author #form-profile .user_connections input[type=text] {
   position: relative;
 }
+.page-profile #form-profile .modal-header .profile-nav li,
+.author #form-profile .modal-header .profile-nav li {
+  list-style-type: none;
+}
+.page-profile #form-profile .modal-header .profile-nav li.active a i,
+.author #form-profile .modal-header .profile-nav li.active a i {
+  color: #f89406;
+}
+.page-profile #form-profile .modal-header .profile-nav li a,
+.author #form-profile .modal-header .profile-nav li a {
+  float: right;
+  display: inline-block;
+  margin-top: 24px;
+  margin-left: 5px;
+}
+.page-profile #form-profile .modal-header .profile-nav li a i,
+.author #form-profile .modal-header .profile-nav li a i {
+  color: #eeeeee;
+}
+.page-profile #form-profile .modal-header .profile-nav li a:hover i,
+.author #form-profile .modal-header .profile-nav li a:hover i {
+  color: #f89406;
+}
+.page-profile #form-profile .modal-header .profile-nav li a.disabled:hover i,
+.author #form-profile .modal-header .profile-nav li a.disabled:hover i {
+  color: #eeeeee;
+  cursor: default;
+}
 .page-profile .profile-sidebar,
 .author .profile-sidebar {
   padding: 2em 0 2em 2em;

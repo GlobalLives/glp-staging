@@ -19,6 +19,38 @@
 				position: relative;
 			}
 		}
+		.modal-header {
+			.profile-nav {
+				li {
+					list-style-type: none;
+					&.active {
+						a {
+							i {
+								color: @orange;
+							}
+						}
+					}
+					a {
+						float: right;
+						display: inline-block;
+						margin-top: 24px;
+						margin-left: 5px;
+						i {
+							color: @gray-lighter;
+						}
+						&:hover {
+							i {
+								color: @orange;
+							}
+						}
+						&.disabled:hover i {
+							color: @gray-lighter;
+							cursor: default;
+						}
+					}
+				}
+			}
+		}
 	}
 	.profile-sidebar {
 		padding: 2em 0 2em 2em;

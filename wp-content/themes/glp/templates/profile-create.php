@@ -10,15 +10,15 @@
 			<div class="modal-content">
 				<div class="modal-header">
 					<div class="row">
-						<div class="col-md-8">
+						<div class="col-md-9">
 							<h3><?php _e('Welcome to Global Lives','glp'); ?></h3>
 							<p><? _e('Get started by telling us a bit about yourself.','glp'); ?></p>
 						</div>
-						<div class="col-md-4">
+						<div class="col-md-3 pull-right">
 							<ul class="profile-nav">
+								<li><a href="#" data-step="3" class="disabled"><i class="fa fa-circle"></i></a></li>
+								<li><a href="#" data-step="2" class="disabled"><i class="fa fa-circle"></i></a></li>
 								<li class="active"><a href="#" data-step="1"><i class="fa fa-circle"></i></a></li>
-								<li><a href="#" data-step="2"><i class="fa fa-circle-thin"></i></a></li>
-								<li><a href="#" data-step="3"><i class="fa fa-circle-thin"></i></a></li>
 							</ul>
 						</div>
 					</div>
