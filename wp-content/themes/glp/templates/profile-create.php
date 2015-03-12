@@ -9,8 +9,19 @@
 		<div class="modal-dialog">
 			<div class="modal-content">
 				<div class="modal-header">
-					<h3><?php _e('Welcome to Global Lives','glp'); ?></h3>
-					<p><? _e('Get started by telling us a bit about yourself.','glp'); ?></p>
+					<div class="row">
+						<div class="col-md-8">
+							<h3><?php _e('Welcome to Global Lives','glp'); ?></h3>
+							<p><? _e('Get started by telling us a bit about yourself.','glp'); ?></p>
+						</div>
+						<div class="col-md-4">
+							<ul class="profile-nav">
+								<li class="active"><a href="#" data-step="1"><i class="fa fa-circle"></i></a></li>
+								<li><a href="#" data-step="2"><i class="fa fa-circle-thin"></i></a></li>
+								<li><a href="#" data-step="3"><i class="fa fa-circle-thin"></i></a></li>
+							</ul>
+						</div>
+					</div>
 				</div>
 				<div class="modal-body">
 					<?php get_template_part('templates/modal', 'profile-1'); ?>
