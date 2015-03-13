@@ -255,7 +255,12 @@ $(function () {
 		var goToModal = $(this).attr('data-step');
 
 		currentModal.find('input[required]').each(function () {
-			if ($(this).val() === '') { incomplete = true; }
+			if ($(this).val() === '') { 
+				incomplete = true; 
+				$(this).parents('p').addClass('has-error');
+			} else {
+				$(this).parents('p').removeClass('has-error');
+			}
 		});
 
 		if (!incomplete) {
