@@ -230,21 +230,38 @@ $(function () {
 	}
 
 /* Profiles */
-
 	var checkComplete = function () {
 		var modal = $(this).parents('.modal'),
-			incomplete = false;
+		incomplete = false;
+		
 		modal.find('input[required]').each(function () {
 			if ($(this).val() === '') { incomplete = true; }
 		});
 		modal.find('.btn').attr('disabled', incomplete).toggleClass('disabled', incomplete);
 	};
+
 	$('#form-profile input').on('blur change', checkComplete);
 
 	$('#form-profile .next').click(function () {
 		var nextModal = $(this).parents('.modal').attr('data-next');
 		$('.modal').modal('hide');
 		$('#'+nextModal).modal('show');
+	});
+
+	$('#form-profile .goto').click(function (e) {
+		e.preventDefault();
+		incomplete = false;
+		var currentModal = $(this).parents('.modal');
+		var goToModal = $(this).attr('data-step');
+
+		currentModal.find('input[required]').each(function () {
+			if ($(this).val() === '') { incomplete = true; }
+		});
+
+		if (!incomplete) {
+			$('.modal').modal('hide');
+			$('#' + goToModal).modal('show');
+		}
 	});
 
 	$('#form-profile #avatar_upload_btn').click(function (ev) {

@@ -16,9 +16,9 @@
 						</div>
 						<div class="col-md-3 pull-right">
 							<ul class="profile-nav">
-								<li><a href="#" class="disabled"><i class="fa fa-circle"></i></a></li>
-								<li><a href="#" class="next disabled"><i class="fa fa-circle"></i></a></li>
-								<li class="active"><a href="#"><i class="fa fa-circle"></i></a></li>
+								<li><a href="#" class="goto" data-step="modal-profile-3"><i class="fa fa-circle"></i></a></li>
+								<li><a href="#" class="goto" data-step="modal-profile-2"><i class="fa fa-circle"></i></a></li>
+								<li class="active"><a href="#" class="goto" data-step="modal-profile-1"><i class="fa fa-circle"></i></a></li>
 							</ul>
 						</div>
 					</div>
@@ -32,7 +32,7 @@
 			</div>
 		</div>
 	</div>
-	<div id="modal-profile-2" class="modal" data-next="modal-profile-3">
+	<div id="modal-profile-2" class="modal" data-next="modal-profile-3" data-prev="modal-profile-1">
 		<div class="modal-dialog">
 			<div class="modal-content">
 				<div class="modal-header">
@@ -43,9 +43,9 @@
 						</div>
 						<div class="col-md-3 pull-right">
 							<ul class="profile-nav">
-								<li><a href="#" class="next disabled"><i class="fa fa-circle"></i></a></li>
-								<li class="active"><a href="#"><i class="fa fa-circle"></i></a></li>
-								<li><a href="#"><i class="fa fa-circle"></i></a></li>
+								<li><a href="#" class="goto" data-step="modal-profile-3"><i class="fa fa-circle"></i></a></li>
+								<li class="active"><a href="#" class="goto" data-step="modal-profile-2"><i class="fa fa-circle"></i></a></li>
+								<li><a href="#" class="goto" data-step="modal-profile-1"><i class="fa fa-circle"></i></a></li>
 							</ul>
 						</div>
 					</div>
@@ -70,9 +70,9 @@
 						</div>
 						<div class="col-md-3 pull-right">
 							<ul class="profile-nav">
-								<li class="active"><a href="#"><i class="fa fa-circle"></i></a></li>
-								<li><a href="#"><i class="fa fa-circle"></i></a></li>
-								<li><a href="#"><i class="fa fa-circle"></i></a></li>
+								<li class="active"><a href="#" class="goto" data-step="modal-profile-3"><i class="fa fa-circle"></i></a></li>
+								<li><a href="#" class="goto" data-step="modal-profile-2"><i class="fa fa-circle"></i></a></li>
+								<li><a href="#" class="goto" data-step="modal-profile-1"><i class="fa fa-circle"></i></a></li>
 							</ul>
 						</div>
 					</div>
