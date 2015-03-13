@@ -7,12 +7,30 @@
 	}
 
 	#form-profile {
+		#modal-profile-1 {
+			.modal-body {
+				p {
+					margin-bottom: 20px;
+					&.pull-left,
+					&.pull-right {
+						margin-bottom: 0;
+					}
+				}
+				.profile-thumb {
+					margin-bottom: 20px;
+					p {
+						margin-bottom: 0;
+					}
+				}
+			}
+		}
 		input, textarea {
 			max-width: 100%;
 		}
 		.user_thumbnail {
-			width: 100%;
 			height: auto;
+			width: auto;
+			min-height: 200px;
 		}
 		.user_connections {
 			input[type=text] {

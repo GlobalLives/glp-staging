@@ -1,17 +1,18 @@
 <?php
 	global $current_user, $field_keys;
 	$user_id = $current_user->ID;
+	$user_name_array = explode(' ', $current_user->display_name, 2);
 ?>
 <form id="form-profile" action="<?php echo site_url('/profile'); ?>" method="post" enctype="multipart/form-data">
 	<input type="hidden" name="mode" value="save">
 
 	<div id="modal-profile-1" class="modal" data-next="modal-profile-2">
-		<div class="modal-dialog">
+		<div class="modal-dialog modal-lg">
 			<div class="modal-content">
 				<div class="modal-header">
 					<div class="row">
 						<div class="col-md-9">
-							<h3><?php _e('Welcome to Global Lives','glp'); ?></h3>
+							<h3><?php _e('Welcome to Global Lives','glp'); ?>, <?php $user_firstname = $current_user->first_name ? $current_user->first_name : $user_name_array[0]; echo $user_firstname; ?>!</h3>
 							<p><? _e('Get started by telling us a bit about yourself.','glp'); ?></p>
 						</div>
 						<div class="col-md-3 pull-right">
