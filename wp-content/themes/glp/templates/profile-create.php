@@ -34,7 +34,7 @@
 		</div>
 	</div>
 	<div id="modal-profile-2" class="modal" data-next="modal-profile-3" data-prev="modal-profile-1">
-		<div class="modal-dialog">
+		<div class="modal-dialog modal-lg">
 			<div class="modal-content">
 				<div class="modal-header">
 					<div class="row">
@@ -61,7 +61,7 @@
 		</div>
 	</div>
 	<div id="modal-profile-3" class="modal">
-		<div class="modal-dialog">
+		<div class="modal-dialog modal-lg">
 			<div class="modal-content">
 				<div class="modal-header">
 					<div class="row">
